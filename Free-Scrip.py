@@ -397,7 +397,7 @@ logo = ("""\033[1;32m
 ░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝   \033
 __________________×______________________
   
-  auther   :  talha mehar
+  Owner   :  Talha Islam
  
   Github   :  Termux-Talha
 
